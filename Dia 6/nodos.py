@@ -1,5 +1,5 @@
 nodos = []
-cantidad = int(input("cuantos valores vas a ingresar "))
+cantidad = int(input("¿Cuántos valores vas a ingresar? "))
 assert 0 <= cantidad <= 300, "Error, escriba números en rango de 0 _ 300"
 
 for i in range(0, cantidad):
