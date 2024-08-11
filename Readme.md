@@ -77,18 +77,19 @@ Continúa adivinando hasta que aciertes o hayas realizado varios intentos.
 - grupo.py: Programa para concesionario, se pueden realizar compras y agregar a carritos.
 
 8. Dia 8
-- fruticas.py: Carrito de compras
-- suscripcion.py: 
+- fruticas.py: Carrito de compras.
+
+- suscripcion.py: Aplicativo de un periodico en el que puedes iniciar sesión, pagar membresía y regalar una si así lo deseas.
 
 9. Dia 9
-- carrito.py
+- carrito.py: Carritos de compras.
 
 10. Dia 10
-- posicion.py:
+- posicion.py: Este código crea una lista ordenada sin duplicados a partir de los valores ingresados por el usuario, y luego busca la posición del objetivo en esa lista. Si el objetivo no está en la lista, lo agrega y busca su posición.
 
 11. Dia 11
-- jsonj.py:
-- repaso.py:
+- jsonj.py: Archivo de prueba realizar las CRUD.
+- repaso.py: Este código permite revisar, modificar, crear y eliminar estudiantes del sistema.
 
 # Tecnologías utilizadas<a name="id3"></a>
 
@@ -103,13 +104,9 @@ Continúa adivinando hasta que aciertes o hayas realizado varios intentos.
 
 Archivos Fundamentales:
 
-**movistar.py**: Este archivo es el corazón del sistema. Contiene el código que maneja la parte lógica del programa, es fundamental para que funcione el sistema.
+**archivo.py**: Este archivo es el corazón del sistema. Contiene el código que maneja la parte lógica del programa, es fundamental para que funcione el sistema.
 
-**categoriasUsuarios.json**: Aquí se guarda la información de los clientes de acuerdo a su categoría, que pueden ser nuevos clientes, clientes regulares o clientes leales.
-
-**registro.json**: Aquí se guarda la información de cada cliente, dada por ellos mismos al momento del registro a la plataforma.
-
-**servicios.json**: Aquí se guarda la información de cada servicio (características y precio) que ofrece la empresa. Además, cada servicio ofrece la información de los clientes que lo han adquirido.
+**archivo.json**: Archivo esencial para la persistencia de datos.
 
 # Diseño<a name="id6"></a>
 
