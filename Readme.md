@@ -77,8 +77,8 @@ Continúa adivinando hasta que aciertes o hayas realizado varios intentos.
 - grupo.py: Programa para concesionario, se pueden realizar compras y agregar a carritos.
 
 8. Dia 8
-- fruticas.py
--suscripcion.py
+- fruticas.py: Carrito de compras
+- suscripcion.py: 
 
 9. Dia 9
 - carrito.py
